@@ -8,8 +8,8 @@ If you want to access the dataset, please read the instructions in this folder c
 
 EDS dataset consists of:
 
-*3 different domains
+  *3 different domains
 
-*Altogether 16,323 EL images
+  *Altogether 16,323 EL images
 
 
