@@ -1,0 +1,2 @@
+ In this paper, we release the first large-scale ELES dataset to facilitate high-quality, efficient PV manufacturing, featuring primary defect categories such as broken gates, unjoined welds, black spots, cracks, and scratches. With the assistance of multiple experts, we meticulously annotated all defects, allowing anyone to use it to develop other visual tasks and comprehensively support cross-scenario PV defect detection.
+In the revised version, we have added a GitHub link. 
