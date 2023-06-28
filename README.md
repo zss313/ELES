@@ -4,7 +4,7 @@ Electroluminescence (EL) Endogenous Shift (ELES) dataset is the first endogenous
 
 ##Download Dataset
 
-If you want to access the dataset, please read the instructions in this folder carefully, sign the corresponding commitment file and send it to 202012801003@stu.hebut.edu.cn.
+If you want to access the dataset, please read the ELES-Dataset Request Form in this folder carefully, sign the corresponding commitment file and send it to 202012801003@stu.hebut.edu.cn.
 
 EDS dataset consists of:
 
