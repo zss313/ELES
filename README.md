@@ -24,7 +24,7 @@ We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at d
 | Number of defect-free image | 1410 | 2541 | 562 |
 | Total | 9172 | 5750 | 1401 |
 | Acquisition time | September 2020 | May 2021 | October 2021 |
-| Resolution | 384 xx384 | 640 xx589 | 700 xx668 |
+| Resolution | 384 x 384 | 640 x 589 | 700 x 668 |
 
 
 
