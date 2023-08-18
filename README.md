@@ -6,10 +6,18 @@ Electroluminescence (EL) Endogenous Shift (ELES) dataset is the first endogenous
 We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at different times during the production line update process of the same manufacturer. In this study, EL group 1 is used for training the detector, and the other two are used for the test. To efficiently test PV modules, we slice a PV module based on the unit of 2 cells and spliced it into a complete module after the detection. Combined with deep learning technology and with the assistance of multiple experts, we meticulously annotate all defects. The dataset contains a total of $16,323$ EL PV images. 
 
 
-| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| Number of defects | EL group 1 | EL group 2 | EL group 3 | Total | 
+| broken gate | 2436 | 909 | 335 | 1620 |
+| unjoined weld | 1563 | 1167 | 275 | 1669 |
+| black spot | 2313 | 833 | 270 | 1440 |
+| crack | 301 | 283 | 290 | 286 |
+| Scratch | 301 | 283 | 290 | 286 |
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
 ## Download Dataset
