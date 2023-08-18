@@ -13,6 +13,14 @@ We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at d
 | crack | 1951 | 187 | 62 | 508 |
 | scratch | 2219 | 1011 | 257 | 1567 |
 
+| Datasets | EL group 1 |  | EL group 2 |  | EL group 3 |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  | defective i | t-free image | defective is | ct-free image | defective i | efect-free image |
+| Training | 6652 | \\ | \\ | \\ | \\ | \\ |
+| Testing | 1110 | 1410 | 3209 | 2541 | 839 | 562 |
+| Total | 9172 |  | 5750 |  | 1401 |  |
+| Acquisition time | September 2020 |  | May 2021 |  | October 2021 |  |
+| Resolution | 384 xx384 |  | 640 xx589 |  | 700 xx668 |  |
 
 
 
