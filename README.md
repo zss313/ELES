@@ -30,7 +30,7 @@ We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at d
 
 ## Download Dataset
 
-If you want to access the dataset, please read the ELES-Dataset Request Form in this folder carefully, sign the corresponding commitment file and send it to 202012801003@stu.hebut.edu.cn.
+If you want to access the dataset, please read the ELES-Dataset Request Form in this folder carefully, sign the corresponding commitment file, and send it to 202012801003@stu.hebut.edu.cn.
 
 EDS dataset consists of:
 
