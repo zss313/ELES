@@ -6,31 +6,10 @@ Electroluminescence (EL) Endogenous Shift (ELES) dataset is the first endogenous
 We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at different times during the production line update process of the same manufacturer. In this study, EL group 1 is used for training the detector, and the other two are used for the test. To efficiently test PV modules, we slice a PV module based on the unit of 2 cells and spliced it into a complete module after the detection. Combined with deep learning technology and with the assistance of multiple experts, we meticulously annotate all defects. The dataset contains a total of $16,323$ EL PV images. 
 
 
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
+| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 
-\begin{array}{ccccccc}
-\hline \multirow{2}{*}{\begin{array}{c}
-\text { Number of } \\
-\text { defects }
-\end{array}} & \text { Training } & & \multicolumn{3}{c}{\text { Testing }} & \multirow{2}{*}{\text { Total }} \\
-\cline { 2 - 2 } \cline { 5 - 7 } & \text { EL group 1 } & & \text { EL group 1 } & \text { EL group 2 } & \text { EL group 3 } & \\
-\hline \text { broken gate } & 2060 & & 376 & 909 & 335 & 1620 \\
-\text { unjoined weld } & 1336 & & 227 & 1167 & 275 & 1669 \\
-\text { black spot } & 1976 & & 337 & 833 & 270 & 1440 \\
-\text { crack } & 1692 & & 259 & 187 & 62 & 508 \\
-\text { scratch } & 1920 & & 299 & 1011 & 257 & 1567 \\
-\hline
-\end{array}
 
 
 # Download Dataset
