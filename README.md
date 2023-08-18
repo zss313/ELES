@@ -8,11 +8,11 @@ We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at d
 
 | Number of defects | Training |  | Testing |  |  | Total |
 |-|-|-|-|-|-|-|  
-| broken gate | 2060 |  | 376 | 909 | 335 | 1620 |
-| unjoined weld | 1336 |  | 227 | 1167 | 275 | 1669 |
-| black spot | 1976 |  | 337 | 833 | 270 | 1440 | 
-| crack | 1692 |  | 259 | 187 | 62 | 508 |
-| scratch | 1920 |  | 299 | 1011 | 257 | 1567 |
+| broken gate | 2060   | 376 | 909 | 335 | 1620 |
+| unjoined weld | 1336   | 227 | 1167 | 275 | 1669 |
+| black spot | 1976 |   337 | 833 | 270 | 1440 | 
+| crack | 1692 |   259 | 187 | 62 | 508 |
+| scratch | 1920 |   299 | 1011 | 257 | 1567 |
 
 
 ## Download Dataset
