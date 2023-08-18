@@ -5,7 +5,7 @@ Electroluminescence (EL) Endogenous Shift (ELES) dataset is the first endogenous
 ## 2023 Dataset Access Instructions:
 We collected three sets of EL data (EL group 1, EL group 2, and EL group 3) at different times during the production line update process of the same manufacturer. In this study, EL group 1 is used for training the detector, and the other two are used for the test. To efficiently test PV modules, we slice a PV module based on the unit of 2 cells and spliced it into a complete module after the detection. Combined with deep learning technology and with the assistance of multiple experts, we meticulously annotate all defects. The dataset contains a total of $16,323$ EL PV images. 
 
-| Number of defects | Training |  | Testing |  | Total |  
+| Number of defects | Training |  <td colspan="3">Testing </td>   | Total |  
 |-|-|-|-|-|-|
 |  | EL group 1 | EL group 1 | EL group 2 | EL group 3 |  |
 | broken gate | 2060 | 376 | 909 | 335 | 1620 |
